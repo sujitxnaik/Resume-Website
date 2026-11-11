@@ -24,7 +24,7 @@
   --space: 1.5rem; /* base spacing unit */
 }
 
-/* Optional dark mode: delete this block to disable */
+/* dark mode */
 @media (prefers-color-scheme: dark) {
   :root {
     --accent: #5eead4;
